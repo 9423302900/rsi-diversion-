@@ -1,1 +1,7 @@
-
+yfinance
+pandas
+ta
+requests
+gspread
+oauth2client
+schedule
